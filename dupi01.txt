@@ -1,0 +1,2 @@
+dupi a b
+dupi b c
