@@ -1,2 +1,3 @@
 dupi aa bb
 dupi bb cc
+modif locale
