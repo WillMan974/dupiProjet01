@@ -1,2 +1,3 @@
 dupi a b
 dupi b c
+modif en ligne
